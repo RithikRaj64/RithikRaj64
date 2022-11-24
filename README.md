@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+
+***Rithik*** Here
+
+[![RithikRaj64's github stats](https://github-readme-stats.vercel.app/api?username=RithikRaj64)](https://github.com/asdsda/github-readme-stats)
 
 
 <!--
