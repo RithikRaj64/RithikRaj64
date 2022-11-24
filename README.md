@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 <h1 align="center">Hi 👋, I'm Rithik</h1>
 <h3 align="center">Time to Shine..✨✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithikraj64&label=Profile%20views&color=0e75b6&style=flat" alt="rithikraj64" /> </p>
@@ -40,6 +39,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **rithu0644@gmail.com**
 
 - ⚡ Fun fact **I am the coolest guy u can meet..😉**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
