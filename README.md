@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [UwU Kitchen](https://github.com/RithikRaj64/UwU-Kitchen)
+- 🔭 I’m currently working on [ChainHive]
 
 - 🌱 I’m currently learning **Blockchain**
 
