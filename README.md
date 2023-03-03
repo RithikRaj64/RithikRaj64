@@ -1,10 +1,3 @@
-### Hi there 👋
-
-***Rithik*** Here
-
-[![RithikRaj64's github stats](https://github-readme-stats.vercel.app/api?username=RithikRaj64)](https://github.com/asdsda/github-readme-stats)
-
-
 <!--
 **RithikRaj64/RithikRaj64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,7 +56,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RithikRaj64&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RithikRaj64&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RithikRaj64&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
