@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
 
 
 
