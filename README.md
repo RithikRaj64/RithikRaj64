@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on [ChainHive]
+- 🔭 I’m currently working on **Quantum Cryptography**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Quantum Computing**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Q# and Qiskit**
 
 - 💬 Ask me about **API**
 
